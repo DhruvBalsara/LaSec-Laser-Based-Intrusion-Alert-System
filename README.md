@@ -36,19 +36,19 @@ A laser beam is continuously directed toward an LDR. Under normal conditions, th
 
 ---
 
-## 🖼 Project Images
+## 🖼️ Project Images
 
 ### Circuit Diagram
 
-![Circuit Diagram](Images/Circuit_Diagram.png)
+![Circuit Diagram](LaSec-Laser-Based-Intrusion-Alert-System/Images/Circuit_Diagram.jpeg)
 
 ### Circuit Schematic
 
-![Circuit Schematic](Images/Circuit_Schematic.png)
+![Circuit Schematic](LaSec-Laser-Based-Intrusion-Alert-System/Images/Circuit_Schematic.jpeg)
 
 ### Physical Prototype
 
-![Physical Prototype](Images/Physical_Prototype.png)
+![Physical Prototype](LaSec-Laser-Based-Intrusion-Alert-System/Images/Physical_Prototype.jpeg)
 
 ---
 
